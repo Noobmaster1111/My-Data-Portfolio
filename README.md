@@ -1,2 +1,2 @@
 # My-Data-Portfolio
-Contains projects related to data cleaning, making dashboards in Excel, Power Bi &amp; SQL.
+Projects pertaining to data analysis using Excel & Power Bi
