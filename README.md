@@ -1,5 +1,6 @@
 # My-Data-Portfolio
-Projects pertaining to data analysis using Excel & Power Bi
+Check out my projects where I analyse and visulaise data. 
+Softwares used, Excel, Google Sheets, SQL & Power BI.
 
 See the full Dashboard here - 
 [App Power bi link](https://app.powerbi.com/view?r=eyJrIjoiMTNiNDUwMjgtY2Y3NS00MDk5LWIyZDEtMTg2Nzg0MWQzNDQ5IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
